@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         cajaVerde=findViewById(R.id.box_green);
         cajaAzul=findViewById(R.id.box_blue);
 
-        //AGREGANDO COLORES A LAS LISTAS PARA OBTENER SUS ID LUEGO POR UN NUMERO RANDOM
+        //AGREGANDO COLORES A LAS LISTAS PARA OBTENER SUS ID LUEGO
 
         coloresRojos.add(R.color.color_red);
         coloresRojos.add(R.color.color_red2);
