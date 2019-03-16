@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         coloresVerdes.add(R.color.color_green6);
 
         coloresAzules.add(R.color.color_blue);
-        coloresAzules.add(color_blue2);
+        coloresAzules.add(R.color.color_blue2);
         coloresAzules.add(R.color.color_blue3);
         coloresAzules.add(R.color.color_blue4);
         coloresAzules.add(R.color.color_blue5);
