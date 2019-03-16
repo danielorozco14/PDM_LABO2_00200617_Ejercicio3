@@ -3,7 +3,44 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <!--
+         Bloque de Colores Rojos
+          -->
     <color name="color_red">#ff0000</color>
+    <color name="color_red2">#7D0000</color>
+    <color name="color_red3">#B40000</color>
+    <color name="color_red4">#C80000</color>
+    <color name="color_red5">#AF0000</color>
+    <color name="color_red6">#5A0000</color>
+    <!--
+         #######################
+          -->
+
+    <!--
+        Bloque de Colores Verdes
+         -->
     <color name="color_green">#00ff00</color>
+    <color name="color_green2">#003200</color>
+    <color name="color_green3">#006E00</color>
+    <color name="color_green4">#00AF00</color>
+    <color name="color_green5">#008700</color>
+    <color name="color_green6">#00C800</color>
+    <!--
+         #######################
+          -->
+
+    <!--
+      Bloque de Colores Azules
+       -->
+
     <color name="color_blue">#0000ff</color>
+    <color name="color_blue2">#00004B</color>
+    <color name="color_blue3">#00006E</color>
+    <color name="color_blue4">#0000A4</color>
+    <color name="color_blue5">#0000C8</color>
+    <color name="color_blue6">#0000EB</color>
+
+    <!--
+       #######################
+        -->
 </resources>
